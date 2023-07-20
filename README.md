@@ -2,6 +2,8 @@
 
 This repositories holds jupyter notebook for deep learning projects.
 
+The model will be build with pytorch and pytorch-lightning.
+
 - Image Classification
   - MNIST
   - CIFAR-10
